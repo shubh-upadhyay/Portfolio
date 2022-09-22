@@ -1,9 +1,7 @@
 body{
-    background-image: url("https://wallpaperaccess.com/full/37368.jpg");
-    background-size: cover;
-    font-family:'monospace', sans-serif;
+    background-color: rgb(105,105,105);
+    
 }
-
 
 .font-primary{
     color: #00abae; 
@@ -11,7 +9,7 @@ body{
 .title-icon{
     font-size:20px;
     font-weight: bold;
-    color: white;
+    color: black;
 } 
 p {
     font-size: 14px;;
@@ -101,3 +99,5 @@ PROJECT
     font-weight: bold;
     color:black;
 } 
+
+
